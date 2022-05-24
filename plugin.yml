@@ -1,0 +1,6 @@
+name: MlgBlock
+authors: ["svilex", "Laith98Dev"]
+description: Remade SkyWars svile too MlgBlock
+main: MlgBlock\sw\SWmain
+version: 0.7dev
+api: 4.0.0
